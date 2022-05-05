@@ -1,0 +1,45 @@
+.logo{
+    width: 100px;
+    height: 100px;
+    float: left;
+    margin-left: 40px;
+    
+    
+    
+}
+
+.arriba{
+    background-image: url("https://media.istockphoto.com/photos/paddle-tennis-image-of-court-racket-net-and-ball-picture-id1207904287?k=20&m=1207904287&s=612x612&w=0&h=M6iK5jY5Sh-kG0wf3cMhPKELcl6U368DDjFdspsOmBU=");
+    height: 900px;
+    background-size: cover;
+    
+    
+    
+    
+}
+.a{
+    text-decoration: none;
+    padding:50px;
+    float: right;
+    color:rgb(18, 21, 22);
+    font-size:20px;
+
+}
+
+.texto{
+    position:relative;
+    top:300px;
+    font-size: 40px;
+}
+.info2{
+    font-size: 25px;
+    margin-left: 130px;
+}
+.formulario{
+    display:flex;
+    position:relative;
+    top:400px;
+    margin-left:130px;
+    
+    
+}

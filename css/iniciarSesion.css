@@ -1,0 +1,45 @@
+.formulario{
+    border:black solid 2px;
+    margin:auto;
+    position:relative;
+    top:200px;
+    width: 400px;
+    height: 350px;
+    padding:30px;
+    color: rgb(248, 81, 15);
+    
+    
+}
+
+.contenedor{
+    background-image: url("https://blog.fuertehoteles.com/wp-content/uploads/2016/09/padel-tennis.jpg");
+    
+    background-size: cover;
+    height: 900px;
+}
+
+.a{
+    text-decoration: none;
+    padding:50px;
+    float: right;
+    color:rgb(248, 81, 15);
+    font-size:20px;
+
+}
+nav{
+    flex:1;
+}
+
+@media (max-width: 600px){
+    .formulario{
+        width: 300px;
+        height: 400px;
+    }
+    .a{
+        text-align: center;
+    }
+    
+
+
+    
+}

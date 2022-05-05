@@ -1,0 +1,36 @@
+.formulario{
+    border:black solid 2px;
+    margin:auto;
+    position:relative;
+    top:300px;
+    left:300px;
+    width: 600px;
+    height: 250px;
+    padding:30px;
+    color: blue;
+    display:inline-block;
+    
+    
+}
+
+.contenedor{
+    background-image: url("https://media.istockphoto.com/photos/sportsman-playing-padel-game-picture-id1080225792?k=20&m=1080225792&s=612x612&w=0&h=2fZuQypn_Z8-pHOW8cWiAL4Djiq5Ba49rtB3GcxwEU0=");
+    
+    background-size: cover;
+    height: 900px;
+}
+
+.a{
+    text-decoration: none;
+    padding:50px;
+    float: right;
+    color:rgb(67, 10, 240);
+    font-size:20px;
+
+}
+.text{
+    position:relative;
+    top:300px;
+    left:300px;
+    font-size: 40px;
+}
